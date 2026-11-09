@@ -1,5 +1,5 @@
 wp-config.php
-.env
-wp-content/cache/
-wp-content/upgrade/
-*.log
+wp-content/uploads/
+database.sql
+**/database.sql
+db/
